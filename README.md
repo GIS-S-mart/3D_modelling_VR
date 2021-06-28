@@ -68,6 +68,9 @@ The Benchmark-2_3D_modelling_VR aims at benchmarking methods and tools for 3D mo
 | |Line                    | 1 \[T\]    | 0 \[D\]  | 0 \[D\]        | 0 \[T\]        | 0 \[D\]    | 1 \[T\]       | 1 \[T\]   | 0 \[R\]  | 0 \[R\]  | 1 \[R\]  |
 | Total                   | 4          | 3        | 2              | 2              | 2          | 3             | 4         | 0        | 0        | 4        |
 
+<td><img src="https://github.com/GIS-S-mart/Benchmark-2_3D_modelling_in_VR/blob/main/images/Capabilities.PNG"  width=1000 /></td>
+
+
 ## Meta-Analysis
 
 
