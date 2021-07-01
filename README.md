@@ -1,6 +1,6 @@
 # Benchmark 2. 3D Modelling in VR
 
-The Benchmark-2_3D_modelling_VR aims at benchmarking methods and tools for 3D modelling in virtual reality.
+The Benchmark-2_3D_modelling_VR aims at benchmarking virtual environments for 3D modelling in virtual reality.
 
 ## Glossary
 
