@@ -47,7 +47,7 @@ The Benchmark-2_3D_modelling_VR aims at benchmarking methods and tools for 3D mo
 |                         | Total         | 4       | 2       | 3                 | 4                 | 4             | 0                | 1            | 2      | 2      | 0      |
 | Volumic Operators       | Extrude       | 1 [T]   | 0 [D]   | 1 [D]             | 1 [T]             | 1 [D]         | 0 [D]            | 1 [T]        | 1 [R]  | 1 [R]  | 0 [NA] |
 |                         | Sweep         | 1 [T]   | 0 [D]   | 0 [D]             | 0 [T]             | 0 [D]         | 0 [D]            | 0 [D]        | 0 [R]  | 0 [NA] | 0 [NA] |
-|                         | Revovle       | 1 [T]   | 0 [D]   | 1 [D]             | 1 [T]             | 1 [D]         | 0 [D]            | 0 [D]        | 0 [R]  | 1 [R]  | 0 [NA] |
+|                         | Revolve       | 1 [T]   | 0 [D]   | 1 [D]             | 1 [T]             | 1 [D]         | 0 [D]            | 0 [D]        | 0 [R]  | 1 [R]  | 0 [NA] |
 |                         | Total         | 3       | 0       | 2                 | 2                 | 2             | 0                | 1            | 1      | 2      | 0 [NA] |
 | Boolean Operators       | Union         | 0 [T]   | 1 [D]   | 1 [D]             | 1 [T]             | 1 [D]         | 0 [D]            | 1 [D]        | 0 [NA] | 1 [R]  | 0 [NA] |
 |                         | Interset      | 0 [T]   | 0 [D]   | 0 [D]             | 0 [T]             | 0 [D]         | 0 [D]            | 0 [T]        | 0 [R]  | 1 [R]  | 0 [NA] |
