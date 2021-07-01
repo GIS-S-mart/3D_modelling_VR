@@ -20,7 +20,7 @@ The Benchmark-2_3D_modelling_VR aims at benchmarking methods and tools for 3D mo
 
 ## Comparison
 
-| Criteria                | Mindesk    | SkyReal  | Gravity Sketch | Blender OpenXR | Blender VR | Flying Shapes | VR Sketch | \[3\]    | \[1\]    | \[[2](https://gricad-gitlab.univ-grenoble-alpes.fr/vision-r/projets/architool/-/tree/UpdateJuin24)\]    |
+| Criteria                |[Mindesk](https://mindeskvr.com/)| SkyReal  | [Gravity Sketch](https://www.gravitysketch.com/) | Blender OpenXR | Blender VR | [Flying Shapes](https://www.flyingshapes.com/) | [VR Sketch](https://vrsketch.eu/) | \[3\]    | \[1\]    | \[[2](https://gricad-gitlab.univ-grenoble-alpes.fr/vision-r/projets/architool/-/tree/UpdateJuin24)\]    |
 | ----------------------- | ---------- | -------- | -------------- | -------------- | ---------- | ------------- | --------- | -------- | -------- | -------- |
 | Dimensional constraints| Length     | 0 \[T\]  | 0 \[D\]        | 0 \[D\]        | 0 \[D\]    | 0 \[D\]       | 0 \[D\]   | 0 \[T\]  | 1 \[R\]  | 0 \[NA\] | 0 \[NA\] |
 | |Radius                  | 0 \[T\]    | 0 \[D\]  | 0 \[D\]        | 0 \[D\]        | 0 \[D\]    | 0 \[D\]       | 0 \[T\]   | 1 \[R\]  | 0 \[NA\] | 0 \[NA\] |
