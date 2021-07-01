@@ -20,7 +20,7 @@ The Benchmark-2_3D_modelling_VR aims at benchmarking methods and tools for 3D mo
 
 ## Comparison
 
-| Category                |   Criteria            | [Mindesk](https://mindeskvr.com/) | SkyReal | [Gravity<br>Sketch](https://www.gravitysketch.com/) | Blender<br>OpenXR | Blender<br>VR | [Flying<br>Shapes](https://www.flyingshapes.com/) | [VR<br>Sketch](https://vrsketch.eu/) | [1]    | [2]    | [3]    |
+| Category                |   Criteria            | [Mindesk](https://mindeskvr.com/) | SkyReal | [Gravity<br>Sketch](https://www.gravitysketch.com/) | Blender<br>OpenXR | Blender<br>VR | [Flying<br>Shapes](https://www.flyingshapes.com/) | [VR<br>Sketch](https://vrsketch.eu/) | [Bordot *et al*](https://dl.acm.org/doi/10.1016/j.cad.2008.10.014)    | [Martin *et al*](https://link.springer.com/chapter/10.1007/978-3-319-60922-5_17)    | [Feeman *et al*](https://www.tandfonline.com/doi/abs/10.1080/16864360.2018.1462570?journalCode=tcad20)    |
 |-------------------------|---------------|---------|---------|-------------------|-------------------|---------------|------------------|--------------|--------|--------|--------|
 | Dimensional constraints | Length        | 0 [T]   | 0 [D]   | 0 [D]             | 0 [D]             | 0 [D]         | 0 [D]            | 0 [T]        | 0 [NA] | 0 [NA] | 1 [R]  |
 |                         | Radius        | 0 [T]   | 0 [D]   | 0 [D]             | 0 [D]             | 0 [D]         | 0 [D]            | 0 [T]        | 0 [NA] | 0 [NA] | 1 [R]  |
