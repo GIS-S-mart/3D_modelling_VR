@@ -85,6 +85,6 @@ The Benchmark-2_3D_modelling_VR aims at benchmarking virtual environments for 3D
 
 ## References
 
-Tran, T., Foucault, G., Pinquié, R., (2021) "Benchmarking of 3D modelling in virtual reality". CAD Conference, 2021, Barcelona.
+[Tran, T., Foucault, G., Pinquié, R., (2021) "Benchmarking of 3D modelling in virtual reality". CAD Conference, 2021, Barcelona.](https://rpinquie.github.io/publications/CAD21.pdf)
 
 
