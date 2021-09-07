@@ -8,10 +8,14 @@ The Benchmark-2_3D_modelling_VR aims at benchmarking virtual environments for 3D
 
 ## Requirements
 
-- The VE shall enable the designer to define dimensional constraints
--   
-
-
+- The VE shall enable the designer to define dimensional constraints (length, raduis, distance, angle)
+- The VE shall enable the designer to define geometrical constraints (horizontal, vertical, fix/unfix, end point, mid-point, perpendicular, concentric, parallel, tangent, equidistant)
+- The VE shall enable the designer to define canonical shapes (cone, cylinder, box, sphere)
+- The VE shall enable the designer to define volumic operators (extrude, sweep, revolve)
+- The VE shall enable the designer to define boolean operators (union, intesect, substract)
+- The VE shall enable the designer to define surfacic operators (offset, patch)
+- The VE shall enable the designer to define engineering features (hole, chamfer, ribs)
+- The VE shall enable the designer to geometric entities (spline, circle, rectangle, point, plane, line)
 
 ## Measures of performance
 
@@ -51,7 +55,7 @@ The Benchmark-2_3D_modelling_VR aims at benchmarking virtual environments for 3D
 |                         | Revolve       | 1 [T]   | 0 [D]   | 1 [D]             | 1 [T]             | 1 [D]         | 0 [D]            | 0 [D]        | 0 [R]  | 1 [R]  | 0 [NA] | 1 [T] |
 |                         | Total         | 3       | 0       | 2                 | 2                 | 2             | 0                | 1            | 1      | 2      | 0 [NA] | 1 [T] |
 | Boolean Operators       | Union         | 0 [T]   | 1 [D]   | 1 [D]             | 1 [T]             | 1 [D]         | 0 [D]            | 1 [D]        | 0 [NA] | 1 [R]  | 0 [NA] | 1 [T] |
-|                         | Interset      | 0 [T]   | 0 [D]   | 0 [D]             | 0 [T]             | 0 [D]         | 0 [D]            | 0 [T]        | 0 [R]  | 1 [R]  | 0 [NA] | 1 [T] |
+|                         | Intersect      | 0 [T]   | 0 [D]   | 0 [D]             | 0 [T]             | 0 [D]         | 0 [D]            | 0 [T]        | 0 [R]  | 1 [R]  | 0 [NA] | 1 [T] |
 |                         | Substract     | 0 [T]   | 0 [D]   | 0 [D]             | 0 [T]             | 0 [D]         | 0 [D]            | 0 [T]        | 1 [R]  | 0 [NA] | 0 [NA] | 1 [T] |
 |                         | Total         | 0       | 1       | 1                 | 1                 | 1             | 0                | 1            | 1 [NA] | 2      | 0 [NA] | 1 [T] |
 | Surfacic Operators      | Offset        | 1 [T]   | 0 [D]   | 1 [D]             | 1 [T]             | 1 [D]         | 0 [T]            | 1 [T]        | 0 [NA] | 0 [NA] | 0 [NA] | 1 [T] |
@@ -61,7 +65,7 @@ The Benchmark-2_3D_modelling_VR aims at benchmarking virtual environments for 3D
 |                         | Chamfer       | 0 [T]   | 0 [D]   | 0 [D]             | 1 [T]             | 1 [D]         | 0 [D]            | 0 [T]        | 0 [R]  | 1 [R]  | 0 [NA] | 1 [T] |
 |                         | Ribs          | 0 [T]   | 0 [D]   | 0 [D]             | 0 [T]             | 0 [D]         | 0 [D]            | 0 [T]        | 0 [R]  | 0 [NA] | 0 [NA] | 1 [T] |
 |                         | Total         | 0       | 0       | 0                 | 1                 | 1             | 0                | 1            | 1      | 2      | 0 [NA] | 1 [T] |
-| Entites Geometrique     | Spline        | 1 [T]   | 1 [D]   | 1 [D]             | 0 [T]             | 0 [D]         | 1 [T]            | 0 [T]        | 0 [R]  | 1 [R]  | 0 [R]  | 1 [T] |
+| Geometric entities     | Spline        | 1 [T]   | 1 [D]   | 1 [D]             | 0 [T]             | 0 [D]         | 1 [T]            | 0 [T]        | 0 [R]  | 1 [R]  | 0 [R]  | 1 [T] |
 |                         | Circle        | 1 [T]   | 0 [D]   | 0 [D]             | 1 [T]             | 1 [D]         | 0 [T]            | 1 [T]        | 0 [R]  | 0 [NA] | 0 [R]  | 1 [T] |
 |                         | Rectangle     | 1 [T]   | 0 [D]   | 0 [D]             | 0 [T]             | 0 [D]         | 0 [T]            | 1 [T]        | 0 [R]  | 0 [NA] | 0 [R]  | 1 [T] |
 |                         | Point         | 0 [T]   | 0 [D]   | 1 [D]             | 0 [T]             | 0 [D]         | 0 [T]            | 0 [T]        | 0 [R]  | 1 [R]  | 0 [R]  | 1 [T] |
