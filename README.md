@@ -20,6 +20,10 @@ The Benchmark-2_3D_modelling_VR aims at benchmarking virtual environments for 3D
 ## Measures of performance
 
 ## Comparison
+[T] capability evaluated by test with trial or open source license
+[D] capability evaluated by face-to-face or web-based demonstration (videos, images, etc.)
+[R] capability evaluated by scientific paper
+[NA] capability not found and consequently considered as unsatisfied
 
 | Category                |   Criteria            | [Mindesk](https://mindeskvr.com/) | [SkyReal](https://sky-real.com/fr/) | [Gravity<br>Sketch](https://www.gravitysketch.com/) | Blender<br>OpenXR | Blender<br>VR | [Flying<br>Shapes](https://www.flyingshapes.com/) | [VR<br>Sketch](https://vrsketch.eu/) | [Bordot *et al*](https://dl.acm.org/doi/10.1016/j.cad.2008.10.014)    | [Martin *et al*](https://link.springer.com/chapter/10.1007/978-3-319-60922-5_17)    | [Feeman *et al*](https://www.tandfonline.com/doi/abs/10.1080/16864360.2018.1462570?journalCode=tcad20)    | [VRSM](https://gricad-gitlab.univ-grenoble-alpes.fr/vision-r-public/architool/-/tree/master/Structural%20view)
 |-------------------------|---------------|---------|---------|-------------------|-------------------|---------------|------------------|--------------|--------|--------|--------|--------|
