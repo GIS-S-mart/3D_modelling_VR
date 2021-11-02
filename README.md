@@ -10,7 +10,7 @@ The Benchmark-2_3D_modelling_VR aims at benchmarking immersive virtual environme
 
 ## Requirements
 
-For an objective comparison, the candidate solution shall satisfy the following requirements:
+For an objective comparison, the candidate solutions shall strive to satisfy the following requirements:
 
 ### Functional requirements:
 
