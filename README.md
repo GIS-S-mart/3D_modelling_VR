@@ -28,9 +28,6 @@ For an objective comparison, the candidate solutions shall strive to satisfy the
 
 - The VE shall be operated in a head-mounted device
 
-## Datasets
-- Preliminary design of an Electro-Mechanical Actuator (EMA) for architecture trade-off analysis [add DOI]
-
 ## Comparison
 [T] capability evaluated by test with trial or open source license
 [D] capability evaluated by face-to-face or web-based demonstration (videos, images, etc.)
