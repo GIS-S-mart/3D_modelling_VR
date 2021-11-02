@@ -88,7 +88,7 @@ For an objective comparison, the candidate solutions shall strive to satisfy the
 
 ## Datasets
 
-- [Preliminary design of an electro-mechanical actuator (EMA)]()
+- [Preliminary design of an Electro-Mechanical Actuator (EMA)](https://ieeexplore.ieee.org/document/8544405)
 
 ## Meta-Analysis
 
