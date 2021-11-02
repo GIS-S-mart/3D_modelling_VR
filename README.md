@@ -1,12 +1,18 @@
 # Benchmark 2. 3D Modelling in VR
 
-The Benchmark-2_3D_modelling_VR aims at benchmarking virtual environments for 3D modelling in virtual reality.
+## Introduction
+
+The Benchmark-2_3D_modelling_VR aims at benchmarking immersive virtual environments for solid modelling of mechanical products in virtual reality.
 
 ## Glossary
 
 ...
 
 ## Requirements
+
+For an objective comparison, the candidate solution shall satisfy the following requirements:
+
+### Functional requirements:
 
 - The VE shall enable the designer to define dimensional constraints (length, raduis, distance, angle)
 - The VE shall enable the designer to define geometrical constraints (horizontal, vertical, fix/unfix, end point, mid-point, perpendicular, concentric, parallel, tangent, equidistant)
@@ -15,9 +21,15 @@ The Benchmark-2_3D_modelling_VR aims at benchmarking virtual environments for 3D
 - The VE shall enable the designer to define boolean operators (union, intesect, substract)
 - The VE shall enable the designer to define surfacic operators (offset, patch)
 - The VE shall enable the designer to define engineering features (hole, chamfer, ribs)
-- The VE shall enable the designer to geometric entities (spline, circle, rectangle, point, plane, line)
+- The VE shall enable the designer to define geometric entities (spline, circle, rectangle, point, plane, line)
+- The VE shall enable the designer to reuse (create, read, update, delete) the model in CAD software for detailed design
 
-## Measures of performance
+### Non-functional requirements:
+
+- The VE shall be operated in a head-mounted device
+
+## Datasets
+- Preliminary design of an Electro-Mechanical Actuator (EMA) for architecture trade-off analysis [add DOI]
 
 ## Comparison
 [T] capability evaluated by test with trial or open source license
@@ -74,11 +86,9 @@ The Benchmark-2_3D_modelling_VR aims at benchmarking virtual environments for 3D
 |                         | Total         | 4       | 3       | 2                 | 2                 | 2             | 3                | 4            | 0      | 4      | 0      | 1 [T] |
 <td><img src="https://github.com/GIS-S-mart/Benchmark-2_3D_modelling_in_VR/blob/main/images/Capabilities.PNG"  width=1000 /></td>
 
-
 ## Datasets
 
 - [Preliminary design of an electro-mechanical actuator (EMA)]()
-
 
 ## Meta-Analysis
 
